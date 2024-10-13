@@ -1,0 +1,18 @@
+first_name = first_name = Elwood, last_name =  last_name = Blues, phone =  phone = 555-7778, address =  address = 1060 West Addison Street, city =  city = Chicago, zip =  zip = 99300
+first_name = first_name = Archie, last_name =  last_name = Bunker, phone =  phone = 555-3497, address =  address = 705 Hauser Street, city =  city = Queens, zip =  zip = 11466
+first_name = first_name = Montgomery, last_name =  last_name = Burns, phone =  phone = 555-9809, address =  address = 1000 Mammon Lane, city =  city = Springfield, zip =  zip = 90122
+first_name = first_name = Richie, last_name =  last_name = Cunningham, phone =  phone = 555-6748, address =  address = 565 Clinton Drive, city =  city = Milwaukee, zip =  zip = 22939
+first_name = first_name = Vernon, last_name =  last_name = Dursley, phone =  phone = 01483 519606, address =  address = 4 Privet Drive, city =  city = Surrey, zip =  zip = 38383
+first_name = first_name = Ned, last_name =  last_name = Flanders, phone =  phone = 555-4983, address =  address = 740 Evergreen Terrace, city =  city = Springfield, zip =  zip = 90122
+first_name = first_name = Peter, last_name =  last_name = Griffin, phone =  phone = 555-2315, address =  address = 31 Spooner Street, city =  city = Quahog, zip =  zip = 50332
+first_name = first_name = Hank, last_name =  last_name = Hill, phone =  phone = 555-9834, address =  address = 84 Rainey Street, city =  city = Arien, zip =  zip = 50667
+first_name = first_name = Sherlock, last_name =  last_name = Holmes, phone =  phone = 207 224 3688, address =  address = 221 Baker Street, city =  city = London, zip =  zip = 19303
+first_name = first_name = Ralph, last_name =  last_name = Kramden, phone =  phone = 555-4252, address =  address = 328 Chauncey Street, city =  city = Brooklyn, zip =  zip = 10101
+first_name = first_name = Herman, last_name =  last_name = Munster, phone =  phone = 555-1313, address =  address = 1313 Mockingbird Lane, city =  city = Pleasantville, zip =  zip = 10313
+first_name = first_name = Major, last_name =  last_name = Nelson, phone =  phone = 555-4234, address =  address = 1020 Palm Drive, city =  city = Cocoa Beach, zip =  zip = 33390
+first_name = first_name = Ricky, last_name =  last_name = Ricardo, phone =  phone = 555-4231, address =  address = 4 East 68th Street, city =  city = New York, zip =  zip = 10101
+first_name = first_name = Fred, last_name =  last_name = Sanford, phone =  phone = 555-8737, address =  address = 9114 Central, city =  city = Los Angeles, zip =  zip = 90633
+first_name = first_name = Homer, last_name =  last_name = Simpson, phone =  phone = 555-9802, address =  address = 742 Evergreen Terrace, city =  city = Springfield, zip =  zip = 90122
+first_name = first_name = Spongebob, last_name =  last_name = Squarepants, phone =  phone = 555-8942, address =  address = 124 Conch Street, city =  city = Bikini Bottom, zip =  zip = 10022
+first_name = first_name = Jack, last_name =  last_name = Tripper, phone =  phone = 555-8972, address =  address = 834 Ocean Vista Avenue, city =  city = Santa Monica, zip =  zip = 90301
+first_name = first_name = Felix, last_name =  last_name = Unger, phone =  phone = 555-4324, address =  address = 1049 Park Avenue, city =  city = New York, zip =  zip = 10101
